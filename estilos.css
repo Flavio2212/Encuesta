@@ -1,0 +1,28 @@
+div{
+    text-align:justify;
+    background-color: rgb(205, 233, 233);
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 400px;
+    height: auto;
+    margin-left: 450px;
+    padding: 1em 1em 1em 1em;
+
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    
+}
+body{
+    background-image: url(/fondo\ de\ encuesta.webp);
+}
+.envio{
+    background-color: green;
+    border: 0ch;
+    padding:2px 40px 2px 40px;
+    border-radius: 5px;
+    text-align: center;
+
+}
